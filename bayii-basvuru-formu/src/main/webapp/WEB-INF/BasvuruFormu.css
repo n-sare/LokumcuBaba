@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {
+ background-color: #ccff66;
+}
+h1 {
+ color: #333300;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+td{
+ color: #333300;
+ text-align: left;
+ font: italic 100%;
+ font-weight: bold;
+}
